@@ -8,18 +8,18 @@
 
 ---
 
-## 🚀 **Mes Compétences**
+## 🚀 Mes Compétences
 <p style="font-family: 'Arial'; font-size: 16px;">
-- 🛠 **IoT** : ESP32, LoRa32, MQTT  <br>
-- 🧠 **IA** : YOLO, Teachable Machine, TensorFlow, Roboflow  <br>
-- 🖥 **Backend** : Django, Node.js  <br>
-- 📱 **Frontend** : Flutter, Kotlin  <br>
-- 🗄 **Base de Données** : SQL, MongoDB, Firebase  <br>
+- 🛠 IoT : ESP32, LoRa32, MQTT  <br>
+- 🧠 IA : YOLO, Teachable Machine, TensorFlow, Roboflow  <br>
+- 🖥 Backend : Django, Node.js  <br>
+- 📱 Frontend : Flutter, Kotlin  <br>
+- 🗄 Base de Données : SQL, MongoDB, Firebase  <br>
 </p>
 
 ---
 
-## 🧰 **Outils & Technologies**
+## 🧰 Outils & Technologies
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -30,25 +30,25 @@
 
 ---
 
-## 🌟 **Projets en vedette**
+## 🌟 Projets en vedette
 <table align="center" style="font-family: 'Tahoma'; font-size: 16px;">
   <tr>
-    <td>🚜 **Traceur GPS**</td>
+    <td>🚜 Traceur GPS</td>
     <td>Suivi des moutons en temps réel avec ESP32 & LoRaWAN.</td>
   </tr>
   <tr>
-    <td>🖼 **Détection IA**</td>
+    <td>🖼 Détection IA</td>
     <td>Intégration de YOLOv10 pour l'agriculture intelligente.</td>
   </tr>
   <tr>
-    <td>🔧 **Dashboard IoT**</td>
+    <td>🔧 Dashboard IoT</td>
     <td>Tableau de bord Node-RED pour surveiller les capteurs.</td>
   </tr>
 </table>
 
 ---
 
-## 📊 **Statistiques GitHub**
+## 📊 Statistiques GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MayssaMaaoui&show_icons=true&theme=tokyonight" alt="Statistiques GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayssaMaaoui&layout=compact&theme=tokyonight" alt="Top Langages" />
@@ -56,7 +56,7 @@
 
 ---
 
-## 📫 **Me Contacter**
+## 📫 Me Contacter
 <p align="center">
   <a href="https://www.linkedin.com/in/mayssa-maaoui-85613526a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
